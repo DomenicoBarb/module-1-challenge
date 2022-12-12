@@ -105,6 +105,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* !Lead Generation Section Content End! */
 
 /* !Brand Awareness Section Content! */
 /* Margin size/Font colour */
@@ -125,6 +126,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* !Brand Awareness Section Content End! */
 
 /* !Cost Management Section Content! */
 /* Margin size/Font colour */
@@ -145,10 +147,12 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* !Cost Management Section Content End! */
 /* !!Right Side Panel Content End!! */
 
 /* !!Left Side Panel Content Start!! */
-/* This pushes the SEO and Social Media Marketing images to the left */
+/* !Left Side Panel Positioning/Formatting! */
+/* This Pushes The SEO And Social Media Marketing Image To The Left */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -159,13 +163,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 /* This segments the left 75% of the page for the SEO, Online Reputation Management and Social Media Marketing sections */
 .main-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* !Left Side Panel Positioning/Formatting End! */
+
 /* !SEO Panel Content! */
 /* SEO Panel Formatting */
 .search-engine-optimization {
@@ -233,6 +238,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* !Social Media Marketing Panel Content End! */
 /* !!Left Side Panel Content End!! */
 
 /* !!Footer Content Start!! */
