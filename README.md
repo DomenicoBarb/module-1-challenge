@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
 # How I completed my assignment
 I cloned the starter code using GitHub and from there I used VS Code to refactor the HTML and CSS code. This website has had it's (HTML and CSS) code "refactored", meaning the code has been streamlined and reorganized. The code was organized and in some areas simplified.
 
-## Screenshot
+## Screenshot:
 ![Screenshot](./assets/images/Screenshot.png "Screenshot")
 
 ## Link:
